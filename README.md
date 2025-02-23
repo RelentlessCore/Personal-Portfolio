@@ -2,10 +2,6 @@
 
 Welcome to my personal portfolio repository! This project showcases my skills, experience, and projects in web development. Built with modern web technologies, it provides a smooth and engaging user experience.
 
-🚀 Live Demo
-
-🔗 View Portfolio
-
 ## 📌 Features
 
 Fully Responsive: Optimized for all screen sizes.
