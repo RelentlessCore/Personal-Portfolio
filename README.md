@@ -1,4 +1,4 @@
-Personal Portfolio - Dardan Kabashi
+## Personal Portfolio - Dardan Kabashi
 
 Welcome to my personal portfolio repository! This project showcases my skills, experience, and projects in web development. Built with modern web technologies, it provides a smooth and engaging user experience.
 
@@ -6,7 +6,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 
 🔗 View Portfolio
 
-📌 Features
+## 📌 Features
 
 Fully Responsive: Optimized for all screen sizes.
 
@@ -18,7 +18,7 @@ Contact Form: Send me a message via EmailJS.
 
 Smooth Animations: Engaging UI interactions.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Frontend: HTML, CSS, JavaScript
 
@@ -26,24 +26,18 @@ Icons & Animations: FontAwesome, AOS
 
 Email Integration: EmailJS
 
-📧 Contact
+## 📧 Contact
 
-📩 Email: dardankabashi101@gmail.com
-📌 LinkedIn: linkedin.com/in/dardankabashi
-📌 GitHub: github.com/relentless](https://github.com/RelentlessCore
-
+📩 Email: [dkabashi.tech@gmail.com](mailto:dkabashi.tech@gmail.com)
+  <br>
+  <br>
+  Let's connect and build something amazing together!
 
 
 ## Overview
 
   Logo branding is personal and owned by myself.
 
-## Contact
-
-- Email: [dkabashi.tech@gmail.com](mailto:dkabashi.tech@gmail.com)
-  <br>
-  <br>
-  Let's connect and build something amazing together!
 
 ## License
 
